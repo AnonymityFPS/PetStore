@@ -6,7 +6,6 @@ using System.Text.Json;
 using PetStore.Classes;
 using PetStore.Logic;
 using static System.Text.Json.JsonSerializer;
-var productLogic = new ProductLogic();
 
 
 
@@ -17,9 +16,9 @@ public partial class Program
 
     static void Main()
     {
+        var productLogic = new ProductLogic();
 
-
-                Console.WriteLine("Press 1 to add a product");
+        Console.WriteLine("Press 1 to add a product");
 
                 Console.WriteLine("Type 'exit' to quit");
 

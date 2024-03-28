@@ -11,16 +11,16 @@
       "RelativeMoniker": "D:0:0:{84587B13-03DC-4447-A0CC-D3ABB76CDDEA}|PetStore.csproj|solutionrelative:logic\\productlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84587B13-03DC-4447-A0CC-D3ABB76CDDEA}|PetStore.csproj|c:\\users\\brandon\\source\\repos\\consoleapp1\\classes\\dogleash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84587B13-03DC-4447-A0CC-D3ABB76CDDEA}|PetStore.csproj|solutionrelative:classes\\dogleash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{84587B13-03DC-4447-A0CC-D3ABB76CDDEA}|PetStore.csproj|c:\\users\\brandon\\source\\repos\\consoleapp1\\classes\\catfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84587B13-03DC-4447-A0CC-D3ABB76CDDEA}|PetStore.csproj|solutionrelative:classes\\catfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84587B13-03DC-4447-A0CC-D3ABB76CDDEA}|PetStore.csproj|c:\\users\\brandon\\source\\repos\\consoleapp1\\classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84587B13-03DC-4447-A0CC-D3ABB76CDDEA}|PetStore.csproj|solutionrelative:classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84587B13-03DC-4447-A0CC-D3ABB76CDDEA}|PetStore.csproj|c:\\users\\brandon\\source\\repos\\consoleapp1\\classes\\dogleash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84587B13-03DC-4447-A0CC-D3ABB76CDDEA}|PetStore.csproj|solutionrelative:classes\\dogleash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Brandon\\source\\repos\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T11:14:08.543Z",
               "EditorCaption": ""
@@ -53,14 +53,14 @@
               "RelativeDocumentMoniker": "Logic\\ProductLogic.cs",
               "ToolTip": "C:\\Users\\Brandon\\source\\repos\\ConsoleApp1\\Logic\\ProductLogic.cs",
               "RelativeToolTip": "Logic\\ProductLogic.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-28T01:42:01.738Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Brandon\\source\\repos\\ConsoleApp1\\Classes\\Product.cs",
               "RelativeDocumentMoniker": "Classes\\Product.cs",
@@ -68,11 +68,12 @@
               "RelativeToolTip": "Classes\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T01:22:37.057Z"
+              "WhenOpened": "2024-03-28T01:22:37.057Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CatFood.cs",
               "DocumentMoniker": "C:\\Users\\Brandon\\source\\repos\\ConsoleApp1\\Classes\\CatFood.cs",
               "RelativeDocumentMoniker": "Classes\\CatFood.cs",
@@ -80,11 +81,12 @@
               "RelativeToolTip": "Classes\\CatFood.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T01:18:30.124Z"
+              "WhenOpened": "2024-03-28T01:18:30.124Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "DogLeash.cs",
               "DocumentMoniker": "C:\\Users\\Brandon\\source\\repos\\ConsoleApp1\\Classes\\DogLeash.cs",
               "RelativeDocumentMoniker": "Classes\\DogLeash.cs",
