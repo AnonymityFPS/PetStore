@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brandon\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84587B13-03DC-4447-A0CC-D3ABB76CDDEA}|PetStore.csproj|c:\\users\\brandon\\source\\repos\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84587B13-03DC-4447-A0CC-D3ABB76CDDEA}|PetStore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84587B13-03DC-4447-A0CC-D3ABB76CDDEA}|PetStore.csproj|c:\\users\\brandon\\source\\repos\\consoleapp1\\logic\\productlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84587B13-03DC-4447-A0CC-D3ABB76CDDEA}|PetStore.csproj|solutionrelative:logic\\productlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84587B13-03DC-4447-A0CC-D3ABB76CDDEA}|PetStore.csproj|c:\\users\\brandon\\source\\repos\\consoleapp1\\classes\\dogleash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84587B13-03DC-4447-A0CC-D3ABB76CDDEA}|PetStore.csproj|solutionrelative:classes\\dogleash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84587B13-03DC-4447-A0CC-D3ABB76CDDEA}|PetStore.csproj|c:\\users\\brandon\\source\\repos\\consoleapp1\\classes\\catfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84587B13-03DC-4447-A0CC-D3ABB76CDDEA}|PetStore.csproj|solutionrelative:classes\\catfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84587B13-03DC-4447-A0CC-D3ABB76CDDEA}|PetStore.csproj|c:\\users\\brandon\\source\\repos\\consoleapp1\\classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84587B13-03DC-4447-A0CC-D3ABB76CDDEA}|PetStore.csproj|solutionrelative:classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\source\\repos\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Brandon\\source\\repos\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T11:14:08.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\source\\repos\\ConsoleApp1\\Logic\\ProductLogic.cs",
+              "RelativeDocumentMoniker": "Logic\\ProductLogic.cs",
+              "ToolTip": "C:\\Users\\Brandon\\source\\repos\\ConsoleApp1\\Logic\\ProductLogic.cs",
+              "RelativeToolTip": "Logic\\ProductLogic.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T01:42:01.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\source\\repos\\ConsoleApp1\\Classes\\Product.cs",
+              "RelativeDocumentMoniker": "Classes\\Product.cs",
+              "ToolTip": "C:\\Users\\Brandon\\source\\repos\\ConsoleApp1\\Classes\\Product.cs",
+              "RelativeToolTip": "Classes\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T01:22:37.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CatFood.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\source\\repos\\ConsoleApp1\\Classes\\CatFood.cs",
+              "RelativeDocumentMoniker": "Classes\\CatFood.cs",
+              "ToolTip": "C:\\Users\\Brandon\\source\\repos\\ConsoleApp1\\Classes\\CatFood.cs",
+              "RelativeToolTip": "Classes\\CatFood.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T01:18:30.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DogLeash.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\source\\repos\\ConsoleApp1\\Classes\\DogLeash.cs",
+              "RelativeDocumentMoniker": "Classes\\DogLeash.cs",
+              "ToolTip": "C:\\Users\\Brandon\\source\\repos\\ConsoleApp1\\Classes\\DogLeash.cs",
+              "RelativeToolTip": "Classes\\DogLeash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T01:15:44.408Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Brandon\source\repos\ConsoleApp1\obj\Debug\net8.0\PetStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brandon\source\repos\ConsoleApp1\obj\Debug\net8.0\PetStore.AssemblyInfoInputs.cache
+C:\Users\Brandon\source\repos\ConsoleApp1\obj\Debug\net8.0\PetStore.AssemblyInfo.cs
+C:\Users\Brandon\source\repos\ConsoleApp1\obj\Debug\net8.0\PetStore.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\ConsoleApp1\obj\Debug\net8.0\PetStore.sourcelink.json
+C:\Users\Brandon\source\repos\ConsoleApp1\bin\Debug\net8.0\PetStore.exe
+C:\Users\Brandon\source\repos\ConsoleApp1\bin\Debug\net8.0\PetStore.deps.json
+C:\Users\Brandon\source\repos\ConsoleApp1\bin\Debug\net8.0\PetStore.runtimeconfig.json
+C:\Users\Brandon\source\repos\ConsoleApp1\bin\Debug\net8.0\PetStore.dll
+C:\Users\Brandon\source\repos\ConsoleApp1\bin\Debug\net8.0\PetStore.pdb
+C:\Users\Brandon\source\repos\ConsoleApp1\obj\Debug\net8.0\PetStore.dll
+C:\Users\Brandon\source\repos\ConsoleApp1\obj\Debug\net8.0\refint\PetStore.dll
+C:\Users\Brandon\source\repos\ConsoleApp1\obj\Debug\net8.0\PetStore.pdb
+C:\Users\Brandon\source\repos\ConsoleApp1\obj\Debug\net8.0\PetStore.genruntimeconfig.cache
+C:\Users\Brandon\source\repos\ConsoleApp1\obj\Debug\net8.0\ref\PetStore.dll
